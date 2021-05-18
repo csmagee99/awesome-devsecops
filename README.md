@@ -150,6 +150,7 @@ A small collection of DevOps and Security podcasts.
 * [Tenable Security Podcast](http://www.tenable.com/podcast)
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
 * [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
+* [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/)
 
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
