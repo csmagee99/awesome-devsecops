@@ -99,6 +99,8 @@ Labs are hands-on learning opportunities to grow your skills in Dev, Sec, and Op
 * [Infrastructure Monitoring](https://github.com/appsecco/defcon24-infra-monitoring-workshop)
 * [Pentester Lab](https://pentesterlab.com/exercises/)
 * [Vulnhub](https://www.vulnhub.com/)
+* [PortSwiggers Web Security Accademy](https://portswigger.net/web-security)
+* [tryhackme](https://tryhackme.com/dashboard)
 
 
 ## Vulnerable Test Targets
